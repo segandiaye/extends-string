@@ -1,7 +1,7 @@
-# super-string
+# extended-string
 
-[![NPM version](http://img.shields.io/npm/v/super-string.svg)](https://www.npmjs.org/package/super-string)
-[![Build Status](https://travis-ci.org/segandiaye/super-string.svg?branch=main)](https://travis-ci.org/segandiaye/super-string)
+[![NPM version](http://img.shields.io/npm/v/extended-string.svg)](https://www.npmjs.org/package/extended-string)
+[![Build Status](https://travis-ci.org/segandiaye/extended-string.svg?branch=main)](https://travis-ci.org/segandiaye/extended-string)
 
 This is a tool that provides extra String methods. It allows to perform some actions more easily with `String` types which makes it simpler, more flexible, more practical and less effort.
 
@@ -9,13 +9,13 @@ This is a tool that provides extra String methods. It allows to perform some act
 
 ```sh
 # Using npm
-npm install --save super-string
+npm install --save extended-string
 ```
 
 ### Usage
 
 ```js
-const Str = require('super-string');
+const Str = require('extended-string');
 
 // Syntax : Str(string).countOccurencesOf(word)
 Str('This is an example!').countOccurencesOf('is'); // expected output: 2
