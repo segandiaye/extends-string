@@ -8,7 +8,6 @@
     "test:ci": "npm t",
     "test:unit": "jest test/unit",
     "test:integration": "jest test/integration",
-    "test:coverage": "jest --coverage test/unit test/integration",
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
   },
