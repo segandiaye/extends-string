@@ -5,6 +5,7 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "npm run lint && jest test/",
+    "test:ci": "npm run lint && npm t",
     "test:unit": "jest test/unit",
     "test:integration": "jest test/integration",
     "test:coverage": "jest --coverage test/unit test/integration",
