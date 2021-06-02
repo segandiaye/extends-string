@@ -1,0 +1,35 @@
+{
+  "name": "super-string",
+  "version": "1.0.0",
+  "description": "extra String methods",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm run lint && jest test/",
+    "test:unit": "jest test/unit",
+    "test:integration": "jest test/integration",
+    "test:coverage": "jest --coverage test/unit test/integration",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/segandiaye/super-string.git"
+  },
+  "keywords": [
+    "string",
+    "super",
+    "super-string",
+    "superstring"
+  ],
+  "author": "Sega NDIAYE «segadembandiaye2007@gmail.com»",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/segandiaye/super-string/issues"
+  },
+  "homepage": "https://github.com/segandiaye/super-string#readme",
+  "devDependencies": {
+    "eslint": "7.27.0",
+    "eslint-config-src": "^1.0.0",
+    "jest": "27.0.3"
+  }
+}
