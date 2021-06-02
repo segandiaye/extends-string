@@ -3,7 +3,7 @@
 [![NPM version](http://img.shields.io/npm/v/extended-string.svg)](https://www.npmjs.org/package/extended-string)
 [![Build Status](https://travis-ci.org/segandiaye/extended-string.svg?branch=main)](https://travis-ci.org/segandiaye/extended-string)
 
-This is a tool that provides extra String methods. It allows to perform some actions more easily with `String` types which makes it simpler, more flexible, more practical and less effort.
+This is a tool that provides extra String methods. It allows to perform some actions more easily with `Strings` types which makes it simpler, more flexible, more practical and less effort.
 
 ## Installation
 
