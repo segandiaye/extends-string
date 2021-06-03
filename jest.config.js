@@ -4,5 +4,5 @@ module.exports = {
     collectCoverageFrom: [
         'lib'
     ],
-    coverageDirectory: '/tmp/extended-string',
+    coverageDirectory: '/tmp/extends-string',
 };
