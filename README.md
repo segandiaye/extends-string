@@ -1,7 +1,7 @@
 # extends-string
 
 [![NPM version](http://img.shields.io/npm/v/extends-string.svg)](https://www.npmjs.org/package/extends-string)
-[![Build Status](https://travis-ci.org/segandiaye/extends-string.svg?branch=main)](https://travis-ci.org/segandiaye/extends-string)
+[![codecov](https://codecov.io/gh/segandiaye/extends-string/branch/feat/build_badge/graph/badge.svg)](https://codecov.io/gh/segandiaye/extends-string)
 
 This is a tool that provides extra String methods. It allows to perform some actions more easily with `String` types which makes it simpler, more flexible, more practical and less effort.
 
