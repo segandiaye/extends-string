@@ -1,6 +1,6 @@
 {
   "name": "extends-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "extra String methods",
   "main": "lib/index.js",
   "scripts": {
